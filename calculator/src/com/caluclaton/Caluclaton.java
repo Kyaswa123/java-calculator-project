@@ -1,4 +1,4 @@
-package com.caluclator;
+package com.caluclaton;
 import com.addition.Addition;
 import com.subtraction.Subtraction;
 import com.division.Division;
@@ -7,7 +7,7 @@ import com.multiplication.Multiplication;
 
 import java.util.Scanner;
 
-public class Caluclator 
+public class Caluclaton 
     {
 
 	public static void main (String[] args)
